@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "braincells.aternos.me",
+    "port": 14428,
     "version": "",
     "try-creative": false
   },
